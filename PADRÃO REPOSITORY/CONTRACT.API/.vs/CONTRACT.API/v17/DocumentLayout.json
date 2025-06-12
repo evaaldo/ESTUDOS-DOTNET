@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ESTUDOS .NET\\TESTES UNIT\u00C1RIOS\\CONTRACT.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7A0742-265F-4250-99A4-A9A98A0F37D9}|CONTRACT.API\\CONTRACT.API.csproj|c:\\users\\user\\desktop\\estudos .net\\testes unit\u00E1rios\\contract.api\\contract.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7A0742-265F-4250-99A4-A9A98A0F37D9}|CONTRACT.API\\CONTRACT.API.csproj|solutionrelative:contract.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7A0742-265F-4250-99A4-A9A98A0F37D9}|CONTRACT.API\\CONTRACT.API.csproj|c:\\users\\user\\desktop\\estudos .net\\testes unit\u00E1rios\\contract.api\\contract.api\\repository\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7A0742-265F-4250-99A4-A9A98A0F37D9}|CONTRACT.API\\CONTRACT.API.csproj|solutionrelative:contract.api\\repository\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ESTUDOS .NET\\TESTES UNIT\u00C1RIOS\\CONTRACT.API\\CONTRACT.API\\Repository\\ContractRepository.cs",
+              "RelativeDocumentMoniker": "CONTRACT.API\\Repository\\ContractRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ESTUDOS .NET\\TESTES UNIT\u00C1RIOS\\CONTRACT.API\\CONTRACT.API\\Repository\\ContractRepository.cs",
+              "RelativeToolTip": "CONTRACT.API\\Repository\\ContractRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:34:56.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ESTUDOS .NET\\TESTES UNIT\u00C1RIOS\\CONTRACT.API\\CONTRACT.API\\Program.cs",
+              "RelativeDocumentMoniker": "CONTRACT.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ESTUDOS .NET\\TESTES UNIT\u00C1RIOS\\CONTRACT.API\\CONTRACT.API\\Program.cs",
+              "RelativeToolTip": "CONTRACT.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:31:01.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
