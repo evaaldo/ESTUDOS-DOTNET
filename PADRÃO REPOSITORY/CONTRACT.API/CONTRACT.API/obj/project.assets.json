@@ -2135,23 +2135,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Evaldo Profec\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ESTUDOS .NET\\TESTES UNITÁRIOS\\CONTRACT.API\\CONTRACT.API\\CONTRACT.API.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\ESTUDOS .NET\\PADRÃO REPOSITORY\\CONTRACT.API\\CONTRACT.API\\CONTRACT.API.csproj",
       "projectName": "CONTRACT.API",
-      "projectPath": "C:\\Users\\User\\Desktop\\ESTUDOS .NET\\TESTES UNITÁRIOS\\CONTRACT.API\\CONTRACT.API\\CONTRACT.API.csproj",
-      "packagesPath": "C:\\Users\\Evaldo Profec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ESTUDOS .NET\\TESTES UNITÁRIOS\\CONTRACT.API\\CONTRACT.API\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\ESTUDOS .NET\\PADRÃO REPOSITORY\\CONTRACT.API\\CONTRACT.API\\CONTRACT.API.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\ESTUDOS .NET\\PADRÃO REPOSITORY\\CONTRACT.API\\CONTRACT.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Evaldo Profec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
